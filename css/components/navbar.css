@@ -1,0 +1,37 @@
+
+.navbar {
+    background-color: #ffffff;
+    padding: 15px 0;
+    border-bottom: 1px solid #ddd;
+}
+
+.navbar .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 28px;
+    font-weight: bold;
+    color: #333;
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.nav-links a {
+    color: #333;
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.3s;
+    font-family: "Lora", serif;
+}
+
+.nav-links a:hover {
+    color: #00cc66;
+}

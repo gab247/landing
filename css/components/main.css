@@ -1,0 +1,10 @@
+.main	{	
+
+background-image: linear-gradient(-225deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.2) 50%), url(../../images/tower.jpg);
+    color: white;
+    padding: 150px 0;
+    background-size: cover;
+    background-position: center;
+
+}
+
